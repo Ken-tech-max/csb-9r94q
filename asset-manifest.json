@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "https://edd-brother.github.io/csb-9r94q/static/css/main.93acf1c9.chunk.css",
+    "main.js": "https://edd-brother.github.io/csb-9r94q/static/js/main.79b2780d.chunk.js",
+    "main.js.map": "https://edd-brother.github.io/csb-9r94q/static/js/main.79b2780d.chunk.js.map",
+    "runtime-main.js": "https://edd-brother.github.io/csb-9r94q/static/js/runtime-main.0192c550.js",
+    "runtime-main.js.map": "https://edd-brother.github.io/csb-9r94q/static/js/runtime-main.0192c550.js.map",
+    "static/js/2.c954dafb.chunk.js": "https://edd-brother.github.io/csb-9r94q/static/js/2.c954dafb.chunk.js",
+    "static/js/2.c954dafb.chunk.js.map": "https://edd-brother.github.io/csb-9r94q/static/js/2.c954dafb.chunk.js.map",
+    "index.html": "https://edd-brother.github.io/csb-9r94q/index.html",
+    "precache-manifest.7235734caf39b7f3351c6dd8e7437275.js": "https://edd-brother.github.io/csb-9r94q/precache-manifest.7235734caf39b7f3351c6dd8e7437275.js",
+    "service-worker.js": "https://edd-brother.github.io/csb-9r94q/service-worker.js",
+    "static/css/main.93acf1c9.chunk.css.map": "https://edd-brother.github.io/csb-9r94q/static/css/main.93acf1c9.chunk.css.map",
+    "static/js/2.c954dafb.chunk.js.LICENSE": "https://edd-brother.github.io/csb-9r94q/static/js/2.c954dafb.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0192c550.js",
+    "static/js/2.c954dafb.chunk.js",
+    "static/css/main.93acf1c9.chunk.css",
+    "static/js/main.79b2780d.chunk.js"
+  ]
+}
